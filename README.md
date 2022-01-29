@@ -20,6 +20,14 @@
 
 ![18](images/Prisma_TS.webp)
 
+### React Real-Time Messaging with GraphQL using urql and OneGraph
+
+![20](images/EGH_RealtimeGraphqL.webp)
+
+### Cloud Infrastructure Fundamentals with AWS
+
+![19](images/Cloud-Infrastructure-1000x1000.webp)
+
 ### Build a Modern User Interface with Chakra UI
 
 ![03](images/chakra-lv1.webp)
