@@ -59,3 +59,19 @@
 ### JavaScript Promises in Depth
 
 ![13](images/JSPromises_Final.webp)
+
+### Understanding JavaScript's Prototypal Inheritance
+
+![14](images/EGH_JSProtoInheritance.webp)
+
+### Use GraphQL Data Loaders to Prevent Scaling Issues by Batching & Caching Database Requests
+
+![15](images/apollo-dataloader--2x.webp)
+
+### Transform Local JavaScript Functions into Serverless API Endpoints
+
+![16](images/Battery-1000x1000.webp)
+
+### Build a GraphQL API with AWS CDK and AppSync
+
+![17](images/egh_aws-graphql_2000.webp)
