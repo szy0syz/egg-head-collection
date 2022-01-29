@@ -87,3 +87,11 @@
 ### Build a GraphQL API with AWS CDK and AppSync
 
 ![17](images/egh_aws-graphql_2000.webp)
+
+### Introduction to GROQ Query Language
+
+![21](images/image.webp)
+
+### Refactor a React Application to TypeScript
+
+![22](images/react-to-typescript.webp)
