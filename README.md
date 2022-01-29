@@ -43,3 +43,19 @@
 ### Build React Components from Streams with RxJS and Recompose
 
 ![09](images/EGH_RxJSStreams_1000.webp)
+
+### Data Structures and Algorithms in JavaScript
+
+![10](images/EGH_JSAlgorithms_Final.webp)
+
+### Just Enough Functional Programming in JavaScript
+
+![11](images/Functional_Programming.webp)
+
+### Algorithms in JavaScript
+
+![12](images/EGH_JSBasic-Algorithms_Final.webp)
+
+### JavaScript Promises in Depth
+
+![13](images/JSPromises_Final.webp)
