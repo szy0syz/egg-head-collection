@@ -16,6 +16,10 @@
 
 ![02](images/rust-garden-cl.webp)
 
+### Build a Backend with Prisma in a TypeScript Node Project
+
+![18](images/Prisma_TS.webp)
+
 ### Build a Modern User Interface with Chakra UI
 
 ![03](images/chakra-lv1.webp)
